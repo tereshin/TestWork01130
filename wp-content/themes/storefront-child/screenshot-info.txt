@@ -1,0 +1,6 @@
+# Screenshot placeholder
+# This would normally be a 1200x900 PNG file showing the theme in action
+# For this implementation, create a screenshot.png file showing:
+# - The cities weather table
+# - The search functionality
+# - The weather widget in the sidebar
